@@ -1,0 +1,35 @@
+{
+  "name": "quiz_project",
+  "version": "1.0.0",
+  "description": "quiz list project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrutisuman03/Quiz_App_using_APIS.git"
+  },
+  "keywords": [
+    "list",
+    "of",
+    "quiz",
+    "single",
+    "quiz",
+    "detail",
+    "participate",
+    "in",
+    "quiz"
+  ],
+  "author": "Shruti suman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shrutisuman03/Quiz_App_using_APIS/issues"
+  },
+  "homepage": "https://github.com/Shrutisuman03/Quiz_App_using_APIS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
